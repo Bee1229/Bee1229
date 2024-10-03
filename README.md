@@ -1,16 +1,16 @@
-## Hi there 👋
+##👋 Hi, I'm Blessing Ibe-Torti!
 
-<!--
-**Bee1229/Bee1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Data engineer/ scientist <br/>
+🎓 Studying Informatics (BSc) | at the Czech University of Life Sciences<br/>
+🛠️ Skills: Data Analysis, Visualization, Data pipelines, Strong Problem-Solving & Communication<br/>
+🌱 Currently Learning:<br/>
+Exploring AI & Machine Learning<br/>
+Enhancing my skills in advanced statistical methods <br/>
+Enhancing my skills in Python<br/>
+🚀 Fun Facts:<br/>
+Passionate about automating processes & optimizing workflows<br/>
+Love teaching Python & SQL to others<br/>
+Always up for coding challenges & innovation<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Blessing Torti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bee1229&countprivate=true&showicons=true&theme=radical&hiderank=false)](https://github.com/anuraghazra/github-readme-stats)
