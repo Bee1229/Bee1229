@@ -3,7 +3,7 @@
 
 💻 Data engineer/ scientist <br/>
 🎓 Studying Informatics (BSc) | at the Czech University of Life Sciences<br/>
-🛠️ Skills: Data Analysis, Visualization, Data pipelines, Strong Problem-Solving & Communication<br/>
+🛠️ Skills: SQL, Data Analysis, Visualization, Data pipelines, Strong Problem-Solving & Communication<br/>
 🌱 Currently Learning:<br/>
 Exploring AI & Machine Learning<br/>
 Enhancing my skills in advanced statistical methods <br/>
